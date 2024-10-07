@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1000795307807",
+    "project_id": "ultima-appv1",
+    "storage_bucket": "ultima-appv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000795307807:android:52878acaf749a0aa05fa2a",
+        "android_client_info": {
+          "package_name": "com.ultima.alphaeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000795307807-h0nksdga919judl70pjk3dt368g29iun.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ultima.alphaeats",
+            "certificate_hash": "75daf95edcaa29d6545507eda73b6690dc9b164f"
+          }
+        },
+        {
+          "client_id": "1000795307807-skeinr67e0qb8gknqalppmh83vvpk9re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq6KwefqUzdQ_hYG4qXxoUsw2zBPVjFhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000795307807-skeinr67e0qb8gknqalppmh83vvpk9re.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1000795307807-fsjkp4ehsf1iv1mnr8oasg8atc5fmdh4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
